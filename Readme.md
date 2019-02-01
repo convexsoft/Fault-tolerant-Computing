@@ -45,8 +45,8 @@ Other information can be seen in logs.
 
 The average time for each mapper and the entire running time of the simulations for different number of failed mappers are compared below.
 
+### Average computation time for mappers.
 ![Average computation time for mappers](Pic/img1.jpg)
-<center>Average computation time for mappers.</center>
 
+### Entire time of the simulations.
 ![Entire time of the simulations](Pic/img2.jpg)
-<center>Entire time of the simulations.</center>
