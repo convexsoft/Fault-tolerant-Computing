@@ -20,10 +20,12 @@ Install hadoop 2.9.1 and make sure [this](https://hadoop.apache.org/docs/stable/
 
 ### Step 1
 
-Write `config.properties` as:
+Create a file `config.properties` and write as:
 
     OPTION=false
     FAILED_NUMBER=0
+    
+You can also change the settings later.
 
 ### Step 2
 
