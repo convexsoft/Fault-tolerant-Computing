@@ -16,7 +16,7 @@ Code model and fail map number setting is in `config.properties`. Specific detai
 
 `Run.bash` is a script program for testing the code.
 
-The CRT code is based on `RESIDUES.C`[3](http://www.discontinuity.net/projects/residue_int/residues.txt).
+The CRT code is based on `RESIDUES.C`[3].
 
 ### Step 0
 
