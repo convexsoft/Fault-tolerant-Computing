@@ -60,7 +60,7 @@ The average time for each mapper and the entire running time of the simulations 
 ### Average computation time for mappers
 ![Average computation time for mappers](Pic/img1.jpg)
 
-### Entire time of the simulations
+### The total running time of the experiment
 ![Entire time of the simulations](Pic/img2.jpg)
 
 ------
