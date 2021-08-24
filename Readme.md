@@ -2,7 +2,7 @@
 
 The code is for implementation of the research paper:
 
-Fault-Tolerant Computation Meets Network Coding: Optimal Scheduling in MapReduce Framework
+Fault-Tolerant Computation Meets Network Coding: Optimal Scheduling in Parallel Computing
 
 # Dependencies
 
